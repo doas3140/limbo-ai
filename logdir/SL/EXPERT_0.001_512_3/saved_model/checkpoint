@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\1000\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\960\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\970\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\980\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\990\\model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\domin\\Desktop\\sl_network_training\\logdir\\both_new_5_24_overnight\\EXPERT_0.0001_512_3\\1000\\model.ckpt"

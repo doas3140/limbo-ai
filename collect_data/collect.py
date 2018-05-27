@@ -5,7 +5,8 @@ from keypress import press, release, U,D,L,R,C # C can be problems
 from keycheck import key_check
 from grabscreen import grab_screen
 
-DATASET_FOLDER = 'E:/Datasets/Limbo/test/'
+DATASET_FOLDER = 'E:/Datasets/Limbo/expert/'
+FILE_ITER = 0
 SCREEN_REGION = (0,0,1920,1080)
 IMAGES_IN_ONE_FILE = 2500
 
@@ -52,7 +53,7 @@ class Environment():
         old_screen = self.get_state()
         p0 = cv2.goodFeaturesToTrack(old_screen, mask=None, **feature_params)
         D = []
-        file_iter = 1
+        file_iter = FILE_ITER
         times = []
         self.paused = True
         while True:
