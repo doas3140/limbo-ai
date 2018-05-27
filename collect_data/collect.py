@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from time import sleep, time
-from keypress import press, release, U,D,L,R,C # C can be problems
+from keypress import press, release, U,D,L,R,C
 from keycheck import key_check
 from grabscreen import grab_screen
 
