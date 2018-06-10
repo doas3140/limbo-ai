@@ -7,7 +7,8 @@ Tensorflow implementation of Artificial Intelligence in game [Limbo](https://sto
 ## Architecture
 
 Consists of 4 neural networks: AutoEncoder (AE), Object Detection (OD), Supervised Learning (SL) and Reinforcement Learning(RL).  
-You can try to collect data and train models yourself. Or you can download pretrained models (see below). Reinforcement Learning part doesn't work now (converges to one action too quickly or doesn't learn at all).
+You can try to collect data and train models yourself. Or you can download pretrained models (see below). Reinforcement Learning part doesn't work now (converges to one action too quickly or doesn't learn at all).  
+![alt text](https://github.com/doas3140/limbo-ai/raw/master/gifs/architecture.png "Architecture")  
 
 ## Collecting data
 
