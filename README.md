@@ -1,7 +1,7 @@
 # Limbo AI  
 Tensorflow implementation of Artificial Intelligence in game [Limbo](https://store.steampowered.com/app/48000/LIMBO/).
  Works only on Windows.  
-![alt text](https://github.com/doas3140/limbo-ai/raw/master/gifs/0.gif "SL output")  
+![alt text](https://github.com/doas3140/limbo-ai/blob/master/gifs/0.gif "SL output")  
 
 
 ## Architecture
